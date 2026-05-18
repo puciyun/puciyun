@@ -1,0 +1,14 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Main logo background -->
+    <rect width="200" height="200" fill="#0066cc" rx="20"/>
+    
+    <!-- Logo bars -->
+    <rect x="30" y="50" width="15" height="100" fill="white" rx="3" opacity="0.9"/>
+    <rect x="60" y="50" width="15" height="100" fill="white" rx="3" opacity="0.9"/>
+    <rect x="90" y="50" width="15" height="100" fill="white" rx="3" opacity="0.9"/>
+    <rect x="120" y="50" width="15" height="100" fill="white" rx="3" opacity="0.9"/>
+    <rect x="150" y="50" width="15" height="100" fill="white" rx="3" opacity="0.9"/>
+    
+    <!-- Company name -->
+    <text x="100" y="170" font-size="20" font-weight="bold" text-anchor="middle" fill="white" font-family="Arial, sans-serif">Puciyun</text>
+</svg>

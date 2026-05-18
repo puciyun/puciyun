@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /pages/
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+Crawl-delay: 1
+Request-rate: 1/1s
+
+Sitemap: https://puciyun.com/sitemap.xml
+
+# Specific rules for Google
+User-agent: Googlebot
+Allow: /
+
+# Specific rules for Bing
+User-agent: Bingbot
+Allow: /
